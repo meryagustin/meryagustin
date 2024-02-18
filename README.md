@@ -33,7 +33,7 @@ Here are some ideas to get you started:
     <code><a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a></code>&nbsp;
    <br>
 
-### <p align="center">Github Page Visitor >>> </p> <p align="center"><img src="https://profile-counter.glitch.me/meryagustin/count.svg" alt="hit counter"></p>
+### <p align="center">Github Page Visitor >>> <img src="https://profile-counter.glitch.me/meryagustin/count.svg" alt="hit counter"></p>
 <br>
 <br>
 
