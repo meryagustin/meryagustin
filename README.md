@@ -38,8 +38,6 @@ Here are some ideas to get you started:
     <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.10-FF1493.svg"></a>
     <a href="https://github.com/meryagustin/meryagustin/graphs/contributors"><img src="https://img.shields.io/github/contributors/meryagustin/meryagustin?color=blue"></a>
     <a href="https://github.com/meryagustin"><img src="https://img.shields.io/github/stars/meryagustin.svg?color=blue&logo=github"></a>
-    <a href="https://github.com/meryagustin/meryagustin/network/members"><img src="https://img.shields.io/github/forks/meryagustin/meryagustin.svg?color=blue&logo=github"></a>
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=meryagustin.meryagustin" alt="visitors"/>
 </p>
 
 ### <p align="center">Github Page Visitor </p>
