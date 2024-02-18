@@ -33,9 +33,19 @@ Here are some ideas to get you started:
     <code><a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a></code>&nbsp;
    <br>
 
-### <p align="center">Github Page Visitor >>> <img src="https://profile-counter.glitch.me/meryagustin/count.svg" alt="hit counter"></p>
+### <p align="center">Github Page Visitor </p>
+<p align="center"><img src="https://profile-counter.glitch.me/meryagustin/count.svg" alt="hit counter"></p>
 <br>
 <br>
+
+<p align="center">
+    <a href="https://github.com/BM-TechID/BM-TechID"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
+    <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.10-FF1493.svg"></a>
+    <a href="https://github.com/BM-TechID/BM-TechID/graphs/contributors"><img src="https://img.shields.io/github/contributors/BM-TechID/BM-TechID?color=blue"></a>
+    <a href="https://github.com/BM-TechID"><img src="https://img.shields.io/github/stars/BM-TechID.svg?color=blue&logo=github"></a>
+    <a href="https://github.com/BM-TechID/BM-TechID/network/members"><img src="https://img.shields.io/github/forks/BM-TechID/BM-TechID.svg?color=blue&logo=github"></a>
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=BM-TechID.BM-TechID" alt="visitors"/>
+</p>
 
 
 ### 🌐 Let's connect!
@@ -46,20 +56,11 @@ Here are some ideas to get you started:
     <a href="https://twitter.com/meryagustin" target="blank"><img src="https://img.shields.io/badge/meryagustin-30302f?style=flat&logo=twitter" /></a>
     <a href="https://t.me/meryagustin" target="blank"><img src="https://img.shields.io/badge/meryagustin-30302f?style=flat&logo=telegram" /></a>
 </p>
+
+
 <!--
 <h1 align="center"> "Always behind the scenes, the world in hand. Silence is scary, Moving deadly"</h1>
-
 <h4 align="center">Free Open Source Developement <br> I Like to work privately</h4>
-
-
-<p align="center">
-    <a href="https://github.com/BM-TechID/BM-TechID"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
-    <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.10-FF1493.svg"></a>
-    <a href="https://github.com/BM-TechID/BM-TechID/graphs/contributors"><img src="https://img.shields.io/github/contributors/BM-TechID/BM-TechID?color=blue"></a>
-    <a href="https://github.com/BM-TechID"><img src="https://img.shields.io/github/stars/BM-TechID.svg?color=blue&logo=github"></a>
-    <a href="https://github.com/BM-TechID/BM-TechID/network/members"><img src="https://img.shields.io/github/forks/BM-TechID/BM-TechID.svg?color=blue&logo=github"></a>
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=BM-TechID.BM-TechID" alt="visitors"/>
-</p>
 -->
 
 ```py
@@ -71,6 +72,7 @@ About Me = [
     "I Work for Mine"
 ]
 ```
+
 
 
 ### 📈 GitHub Activity Graph:
