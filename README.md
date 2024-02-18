@@ -1,6 +1,8 @@
-### Hi there 👋
+
 
 <!--
+
+### Hi there 👋
 **meryagustin/meryagustin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -19,7 +21,20 @@ Here are some ideas to get you started:
 
 <h2 align="center">Hi  &nbsp;<a href="#"><img src="https://raw.githubusercontent.com/BM-TechID/BM-TechID/master/Hi.gif" width="48px"></a>, I'm <a href="https://www.instagram.com/mery_agstn26"> Mery Agustin </a><img src="https://emojis.slackmojis.com/emojis/images/1495224255/2288/christmas_parrot.gif?1495224255" width="30"/></h2> 
 
+### <p align="center">Github Page Visitor</p>
+<p align="center"><img src="https://profile-counter.glitch.me/meryagustin/count.svg" alt="hit counter"></p>
+<br>
+<br>
 
+
+### 🌐 Let's connect!
+<p>
+    <a href="https://meryagustin.github.io" target="blank"><img src="https://img.shields.io/badge/Website-meryagustin-red?" /></a>
+    <a href="https://github.com/meryagustin" target="blank"><img src="https://img.shields.io/badge/meryagustin-30302f?style=flat&logo=github" /></a>
+    <a href="https://instagram.com/mery_agstn26/" target="blank"><img src="https://img.shields.io/badge/mery_agstn26-30302f?style=flat&logo=instagram" /></a>
+    <a href="https://twitter.com/meryagustin" target="blank"><img src="https://img.shields.io/badge/meryagustin-30302f?style=flat&logo=twitter" /></a>
+    <a href="https://t.me/meryagustin" target="blank"><img src="https://img.shields.io/badge/meryagustin-30302f?style=flat&logo=telegram" /></a>
+</p>
 <!--
 <h1 align="center"> "Always behind the scenes, the world in hand. Silence is scary, Moving deadly"</h1>
 
@@ -71,21 +86,7 @@ About Me = [
 </table>
 
 
-###
-<p align="center">Github Page Visitor</p>
-<p align="center"><img src="https://profile-counter.glitch.me/meryagustin/count.svg" alt="hit counter"></p>
-<br>
-<br>
 
-
-### 🌐 Let's connect!
-<p>
-    <a href="https://meryagustin.github.io" target="blank"><img src="https://img.shields.io/badge/Website-meryagustin-red?" /></a>
-    <a href="https://github.com/meryagustin" target="blank"><img src="https://img.shields.io/badge/meryagustin-30302f?style=flat&logo=github" /></a>
-    <a href="https://instagram.com/mery_agstn26/" target="blank"><img src="https://img.shields.io/badge/mery_agstn26-30302f?style=flat&logo=instagram" /></a>
-    <a href="https://twitter.com/meryagustin" target="blank"><img src="https://img.shields.io/badge/meryagustin-30302f?style=flat&logo=twitter" /></a>
-    <a href="https://t.me/meryagustin" target="blank"><img src="https://img.shields.io/badge/meryagustin-30302f?style=flat&logo=telegram" /></a>
-</p>
 
 
 
